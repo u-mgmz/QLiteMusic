@@ -2,8 +2,10 @@
 
 Utku Magemizoğlu 19011097 Mobil Programlamaya Giriş Ödev 2
 
--Eksikler ve Hatalar:
-  -Playlist fonksiyonları, müzik paylaşma, şarkıyı kalıcı olarak silme.
-  -Şarkıları görüntülemek için izin ilk verildiğinde şarkılar gözükmüyor bir geri gidip tekrar bütün şarkılar bölümüne gelinince düzeliyor. Nedeen böyle bir sorun olduğunu çözemedim.
-
 https://www.youtube.com/watch?v=qio36Sr49sk video linki
+
+1- Kullanıcı Giriş Ekranı: İstenilen tüm fonksiyonlar yapıldı.
+2- Kullanıcı Kayıt Ekranı: İstenilen tüm fonksiyonlar yapıldı.
+3- Şarkı Görüntüleme/Silme Ekranı: Şarkılar alındı ve sıralandı, gerekli bilgiler gösterildi, ortak ikon kullanıldı, silme işlemi sadece view üzerinde yapıldı herhangi bir kalıcı veya uygulama bazında etkisi oluşturulmadı, şarkı paylaşma yapılmadı.
+4- Müzik Çalma Ekranı: Gerekli butonlar ve işlemler yapıldı.
+5. Playlist Oluşturma/Silme/Görüntüleme Ekran(lar)ı: Yapılmadı.
